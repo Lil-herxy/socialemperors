@@ -7,7 +7,7 @@ To play Social Empires you'll need either a *flash-capable browser*, or the *Ado
 > 
 > *Note:* Flash-capable browsers like Flash.pm integrate a Flash Player and therefore do not require an *Adobe Flash Player* installation.
 
-:flashlight: **Adobe Flash Player**
+:flashlight: ** Adobe Flash Player **
 
 > [Download Flash Player](https://archive.org/download/flashplayerarchive/pub/flashplayer/installers/archive/fp_32.0.0.371_archive.zip/32_0_r0_371%2Fflashplayer32_0r0_371_win.exe) for **Firefox** and **Basilisk** – NPAPI
 > 
